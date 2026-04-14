@@ -15,19 +15,6 @@ Program menggunakan metode **forward chaining** dengan basis aturan yang disimpa
 
 ---
 
-## 🎯 Kriteria Tugas (Semua Terpenuhi)
-
-| Kriteria | Status | Keterangan |
-|----------|--------|-------------|
-| Knowledge Base minimal 5 kerusakan | ✅ | RAM, Harddisk, Overheating, VGA, Motherboard |
-| Mesin inferensi pakai Dictionary | ✅ | `database_kerusakan` dictionary |
-| Bukan if-else panjang | ✅ | Menggunakan loop dan dictionary |
-| Menangani gejala tidak cocok | ✅ | Output "Tidak terdeteksi" jika tidak ada yang cocok |
-| Output nama kerusakan | ✅ | Ditampilkan di hasil diagnosa |
-| Output solusi singkat | ✅ | Solusi perbaikan untuk setiap kerusakan |
-
----
-
 ## 🖥️ Daftar Kerusakan & Solusi
 
 | No | Kerusakan | Solusi |
